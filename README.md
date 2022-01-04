@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Prince Roy</h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h3 align="center">
 
 Programmer | Ethical Hacker
 
-?></h3>
+</h3>
 
 - 🔭 I’m currently working on **Cyber Security**
 
