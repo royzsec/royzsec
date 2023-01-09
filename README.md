@@ -39,5 +39,5 @@ Programmer | Ethical Hacker
 
 [facebook]: https://www.facebook.com/princeroy.61221
 [twitter]: https://twitter.com/PrinceR33488539
-[instagram]: https://www.instagram.com/_princeroy23_/
+[instagram]: https://www.instagram.com/_royzsec_/
 [linkedin]: https://www.linkedin.com/in/prince-roy-4b9a75187/
