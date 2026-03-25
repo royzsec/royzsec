@@ -38,6 +38,6 @@ Programmer | Ethical Hacker
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=roysec&show_icons=true&locale=en" alt="Prince Roy" /></p>
 
 [facebook]: https://www.facebook.com/princeroy.61221
-[twitter]: https://twitter.com/PrinceR33488539
-[instagram]: https://www.instagram.com/_royzsec_/
+[twitter]: https://twitter.com/royzsec
+[instagram]: https://www.instagram.com/royzsec/
 [linkedin]: https://www.linkedin.com/in/prince-roy-4b9a75187/
